@@ -1,4 +1,4 @@
-## Change the directory
+## I Change the directory
 setwd("/Users/marcomtzmtz/Documents/SkyDrive/Coursera/Specialization/Getting/assignment/UCI HAR Dataset")
 # List the files to know the names
 list.files()
