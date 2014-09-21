@@ -43,3 +43,7 @@ From the original data set that included 30 subjects with six activities
 6 LAYING
 
 The data set include the average value of each variable, for each subject and each activity.
+
+The first variable is the activity(six activities: walking, walking upstairs, walking downstairs, sitting, standing or laying), the second variable is subject (1 to 30), and the next 66 variables are the mean and standard deviation for the signals that were used to estimate variables of the feature vector for each pattern.
+
+Thanks a lot.
