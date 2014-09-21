@@ -183,4 +183,4 @@ The names of the variables are:
 
 68	fBodyBodyGyroJerkMag std
 
-##Thanks a lot.
+##Thanks a lot
